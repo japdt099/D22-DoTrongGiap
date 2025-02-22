@@ -1,2 +1,1 @@
-# D22-DoTronhgGiap
-D22-DoTrongGiap
+# D22-DoTrongGiap
